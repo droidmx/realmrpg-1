@@ -1,0 +1,57 @@
+{
+  "125215099991490561": {
+    "class": "Sorcerer",
+    "exp": 12058,
+    "level": 20,
+    "cooldown": 1513957665911,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Wand of Recompense",
+      "equip1": "Scepter of Devastation",
+      "equip2": "Robe of the Star Mother",
+      "equip3": "Ring of the Sphinx"
+    },
+    "stats": {
+      "hp": 22,
+      "mp": 14,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

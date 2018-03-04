@@ -1,0 +1,57 @@
+{
+  "320238059729715201": {
+    "class": "Knight",
+    "exp": 3809,
+    "level": 20,
+    "cooldown": 1516128533567,
+    "nickname": "enon",
+    "inventory": {
+      "item0": {
+        "name": "Ring of the Sphinx",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Pixie-Enchanted Sword",
+      "equip1": "Empty",
+      "equip2": "Dominion Armor",
+      "equip3": "Ring of the Sphinx"
+    },
+    "stats": {
+      "hp": 12,
+      "mp": 5,
+      "att": 16,
+      "def": 42,
+      "spd": 15,
+      "dex": 16,
+      "vit": 10,
+      "wis": 27
+    }
+  }
+}

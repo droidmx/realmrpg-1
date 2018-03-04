@@ -1,0 +1,57 @@
+{
+  "216743087026733056": {
+    "class": "Warrior",
+    "exp": 5984,
+    "level": 20,
+    "cooldown": 1514172595240,
+    "nickname": "suicidal thoughts",
+    "inventory": {
+      "item0": {
+        "name": "Tome of Purification",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Recurring Terror Spell",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Robe of the Mad Scientist",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Recurring Terror Spell",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Scepter of Fulmination",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Tome of Pain",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Amulet of Dispersion"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 1,
+      "att": 26,
+      "def": 12,
+      "spd": 5,
+      "dex": 6,
+      "vit": 11,
+      "wis": 34
+    }
+  }
+}

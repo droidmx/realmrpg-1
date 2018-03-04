@@ -1,0 +1,57 @@
+{
+  "210430325648523264": {
+    "class": "Knight",
+    "exp": 713,
+    "level": 20,
+    "cooldown": 1515879747522,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Vitality",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Vitality",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Spider's Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 4,
+      "att": 24,
+      "def": 11,
+      "spd": 6,
+      "dex": 3,
+      "vit": 10,
+      "wis": 12
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "211879573971927040": {
+    "class": "Warrior",
+    "exp": 110265,
+    "level": 99,
+    "cooldown": 1514172433291,
+    "nickname": "fat nutasn aweraw",
+    "inventory": {
+      "item0": {
+        "name": "Frost Lich's Finger",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Breastplate of New Life",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Sword of Acclaim",
+      "equip1": "Empty",
+      "equip2": "Dominion Armor",
+      "equip3": "Magical Lodestone"
+    },
+    "stats": {
+      "hp": 5,
+      "mp": 5,
+      "att": 5,
+      "def": 5,
+      "spd": 5,
+      "dex": 5,
+      "vit": 5,
+      "wis": 5
+    },
+    "item1": {
+      "name": "Empty"
+    },
+    "item0": {
+      "name": "The Forgotten Crown"
+    },
+    "item2": {
+      "name": "Empty"
+    }
+  }
+}

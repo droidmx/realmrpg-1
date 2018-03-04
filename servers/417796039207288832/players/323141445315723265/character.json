@@ -1,0 +1,57 @@
+{
+  "323141445315723265": {
+    "class": "Archer",
+    "exp": 18912,
+    "level": 20,
+    "cooldown": null,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Spider's Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 0,
+      "dex": 0,
+      "vit": 0,
+      "wis": 19
+    }
+  }
+}

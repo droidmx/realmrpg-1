@@ -1,0 +1,57 @@
+{
+  "201422975029739520": {
+    "class": "Archer",
+    "exp": 10791,
+    "level": 20,
+    "cooldown": 1516225416785,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Coral Silk Armor",
+      "equip3": "Experimental Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 19,
+      "att": 19,
+      "def": 9,
+      "spd": 9,
+      "dex": 6,
+      "vit": 6,
+      "wis": 45
+    }
+  }
+}

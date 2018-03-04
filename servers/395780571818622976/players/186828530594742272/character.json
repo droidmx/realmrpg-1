@@ -1,0 +1,57 @@
+{
+  "186828530594742272": {
+    "class": "Archer",
+    "exp": 508,
+    "level": 12,
+    "cooldown": 1516171728368,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Spider's Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 0,
+      "dex": 41,
+      "vit": 0,
+      "wis": 0
+    }
+  }
+}

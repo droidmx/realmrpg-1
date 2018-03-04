@@ -1,0 +1,56 @@
+{
+  "131586548524253184": {
+    "class": "Wizard",
+    "exp": 6837,
+    "level": 20,
+    "cooldown": 1511169210885,
+    "inventory": {
+      "item0": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Recurring Terror Spell",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Tome of Pain",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of Extreme Prejudice",
+      "equip1": "Recurring Terror Spell",
+      "equip2": "Robe of the Mad Scientist",
+      "equip3": "Magical Lodestone"
+    },
+    "stats": {
+      "hp": 2,
+      "mp": 1,
+      "att": 39,
+      "def": 50,
+      "spd": 13,
+      "dex": 38,
+      "vit": 37,
+      "wis": 38
+    }
+  }
+}

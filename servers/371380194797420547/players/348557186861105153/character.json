@@ -1,0 +1,57 @@
+{
+  "348557186861105153": {
+    "class": "Trickster",
+    "exp": 1599,
+    "level": 20,
+    "cooldown": 1520193690291,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Cloak of Ghostly Concealment",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Staff of the Cosmic Whole",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Staff of the Cosmic Whole",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Ring of the Sphinx",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Bone Dagger",
+      "equip1": "Empty",
+      "equip2": "Coral Silk Armor",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 28,
+      "mp": 24,
+      "att": 40,
+      "def": 42,
+      "spd": 7,
+      "dex": 3,
+      "vit": 3,
+      "wis": 9
+    }
+  }
+}

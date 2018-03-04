@@ -1,0 +1,57 @@
+{
+  "306736436596572171": {
+    "class": "Warrior",
+    "exp": 8562,
+    "level": 20,
+    "cooldown": 1516191981708,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Conducting Wand",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Conducting Wand",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Ring of the Nile",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Pixie-Enchanted Sword",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Candy Ring",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Cloak of the Planewalker",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Pixie-Enchanted Sword",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Experimental Ring"
+    },
+    "stats": {
+      "hp": 5,
+      "mp": 0,
+      "att": 11,
+      "def": 18,
+      "spd": 15,
+      "dex": 12,
+      "vit": 23,
+      "wis": 19
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "349376550354812928": {
+    "class": "Assassin",
+    "exp": 18444,
+    "level": 20,
+    "cooldown": null,
+    "nickname": "Potato Boi",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Dagger of Sinister Deeds",
+      "equip1": "Plague Poison",
+      "equip2": "Harlequin Armor",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 24,
+      "mp": 25,
+      "att": 48,
+      "def": 50,
+      "spd": 40,
+      "dex": 33,
+      "vit": 38,
+      "wis": 40
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "119615090143002627": {
+    "class": "Warrior",
+    "exp": 3876,
+    "level": 20,
+    "cooldown": 1514054380326,
+    "nickname": "Shady",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Demon Blade",
+      "equip1": "Empty",
+      "equip2": "Breastplate of New Life",
+      "equip3": "Ring of the Pyramid"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 5,
+      "att": 2,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 0
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "297396370321440768": {
+    "class": "Wizard",
+    "exp": 14636,
+    "level": 20,
+    "cooldown": 1512491576620,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of Extreme Prejudice",
+      "equip1": "Empty",
+      "equip2": "Robe of the Mad Scientist",
+      "equip3": "Snake Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 6,
+      "def": 50,
+      "spd": 22,
+      "dex": 7,
+      "vit": 50,
+      "wis": 16
+    }
+  }
+}

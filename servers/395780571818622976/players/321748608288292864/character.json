@@ -1,0 +1,57 @@
+{
+  "321748608288292864": {
+    "class": "Knight",
+    "exp": 110,
+    "level": 12,
+    "cooldown": 1516314251584,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "equip0": "Pixie-Enchanted Sword",
+      "equip1": "Snakeskin Shield",
+      "equip2": "Resurrected Warrior's Armor",
+      "equip3": "Ring of Pure Wishes"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 5,
+      "dex": 8,
+      "vit": 1,
+      "wis": 7
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "223860823167205376": {
+    "class": "Assassin",
+    "exp": 4707,
+    "level": 20,
+    "cooldown": 1513004839179,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Plague Poison",
+      "equip2": "Empty",
+      "equip3": "Ring of the Sphinx"
+    },
+    "stats": {
+      "hp": 17,
+      "mp": 0,
+      "att": 1,
+      "def": 0,
+      "spd": 44,
+      "dex": 0,
+      "vit": 0,
+      "wis": 0
+    }
+  }
+}

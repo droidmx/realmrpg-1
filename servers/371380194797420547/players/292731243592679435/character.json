@@ -1,0 +1,58 @@
+{
+  "292731243592679435": {
+    "class": "Wizard",
+    "exp": 15841,
+    "level": 20,
+    "cooldown": 1519770622112,
+    "nickname": "Noah",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Vitality",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Demon Blade",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Robe of the Mad Scientist",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Vitality",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of Extreme Prejudice",
+      "equip1": "Recurring Terror Spell",
+      "equip2": "Ritual Robe",
+      "equip3": "Bracer of the Guardian"
+    },
+    "stats": {
+      "hp": 5,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 6,
+      "dex": 0,
+      "vit": 19,
+      "wis": 1
+    },
+    "item2": {}
+  }
+}

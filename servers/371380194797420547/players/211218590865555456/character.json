@@ -1,0 +1,56 @@
+{
+  "211218590865555456": {
+    "class": "Wizard",
+    "exp": 548,
+    "level": 9,
+    "cooldown": 1513113131498,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item2": {
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Snake Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 6,
+      "dex": 6,
+      "vit": 0,
+      "wis": 0
+    }
+  }
+}

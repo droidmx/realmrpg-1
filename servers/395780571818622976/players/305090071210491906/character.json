@@ -1,0 +1,57 @@
+{
+  "305090071210491906": {
+    "class": "Assassin",
+    "exp": 4095,
+    "level": 20,
+    "cooldown": 1516223588688,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Dagger of Foul Malevolence",
+      "equip1": "Murky Toxin",
+      "equip2": "Harlequin Armor",
+      "equip3": "Ring of Exalted Health"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

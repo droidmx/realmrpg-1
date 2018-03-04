@@ -1,0 +1,56 @@
+{
+  "199264285367468032": {
+    "class": "Ninja",
+    "exp": 1,
+    "level": 20,
+    "cooldown": 1511985063909,
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Void Blade",
+      "equip1": "Doom Circle",
+      "equip2": "Empty",
+      "equip3": "Spider's Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 33,
+      "def": 12,
+      "spd": 5,
+      "dex": 7,
+      "vit": 12,
+      "wis": 12
+    }
+  }
+}

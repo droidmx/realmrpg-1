@@ -1,0 +1,57 @@
+{
+  "127859027496402944": {
+    "class": "Archer",
+    "exp": 3999,
+    "level": 20,
+    "cooldown": 1513128843659,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Doom Bow",
+      "equip1": "Empty",
+      "equip2": "Wyrmhide Armor",
+      "equip3": "Magical Lodestone"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

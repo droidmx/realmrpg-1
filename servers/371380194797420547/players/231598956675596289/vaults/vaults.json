@@ -1,0 +1,31 @@
+{
+  "231598956675596289": {
+    "item0": {
+      "name": "Helm of the Juggernaut"
+    },
+    "item1": {
+      "name": "Seal of Blasphemous Prayer"
+    },
+    "item2": {
+      "name": "Shield of Ogmur"
+    },
+    "item3": {
+      "name": "Tablet of the King's Avatar"
+    },
+    "item4": {
+      "name": "Ray Katana"
+    },
+    "item5": {
+      "name": "Ritual Robe"
+    },
+    "item6": {
+      "name": "Memento Mori"
+    },
+    "item7": {
+      "name": "Quiver of Thunder"
+    },
+    "itemNaN": {
+      "name": "Empty"
+    }
+  }
+}

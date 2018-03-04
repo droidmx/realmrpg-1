@@ -1,0 +1,57 @@
+{
+  "122798769774395392": {
+    "class": "Knight",
+    "exp": 2074,
+    "level": 20,
+    "cooldown": 1512344256459,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Speed",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Speed",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Speed",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Snakeskin Shield",
+      "equip2": "Empty",
+      "equip3": "Candy Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 1,
+      "att": 30,
+      "def": 13,
+      "spd": 4,
+      "dex": 3,
+      "vit": 12,
+      "wis": 17
+    }
+  }
+}

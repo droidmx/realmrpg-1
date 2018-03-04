@@ -1,0 +1,57 @@
+{
+  "351220072607514624": {
+    "class": "Warrior",
+    "exp": 93206,
+    "level": 20,
+    "cooldown": 1519842558108,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Dominion Armor",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Dominion Armor",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Sword of the Colossus",
+      "equip1": "Empty",
+      "equip2": "Breastplate of New Life",
+      "equip3": "Experimental Ring"
+    },
+    "stats": {
+      "hp": 27,
+      "mp": 31,
+      "att": 32,
+      "def": 41,
+      "spd": 35,
+      "dex": 32,
+      "vit": 39,
+      "wis": 39
+    }
+  }
+}

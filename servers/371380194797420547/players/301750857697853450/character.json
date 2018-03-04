@@ -1,0 +1,56 @@
+{
+  "301750857697853450": {
+    "class": "Assassin",
+    "exp": 5800,
+    "level": 20,
+    "cooldown": 1513241634100,
+    "inventory": {
+      "item0": {
+        "name": "Tome of Pain",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Plague Poison",
+        "isFavorite": 1
+      },
+      "item2": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Wyrmhide Armor",
+        "isFavorite": 1
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Etherite Dagger",
+      "equip1": "Murky Toxin",
+      "equip2": "Harlequin Armor",
+      "equip3": "Ring of Unbound Defense"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

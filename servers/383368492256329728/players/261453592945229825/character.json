@@ -1,0 +1,57 @@
+{
+  "261453592945229825": {
+    "class": "Knight",
+    "exp": 62,
+    "level": 2,
+    "cooldown": 1512486961042,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Empty",
+      "equip3": "Empty"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 0,
+      "dex": 0,
+      "vit": 0,
+      "wis": 0
+    }
+  }
+}

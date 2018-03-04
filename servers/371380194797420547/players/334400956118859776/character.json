@@ -1,0 +1,57 @@
+{
+  "334400956118859776": {
+    "class": "Priest",
+    "exp": 472,
+    "level": 20,
+    "cooldown": 1516847876197,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Conducting Wand",
+      "equip1": "Empty",
+      "equip2": "Robe of the Mad Scientist",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

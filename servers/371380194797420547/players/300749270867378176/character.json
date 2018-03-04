@@ -1,0 +1,57 @@
+{
+  "300749270867378176": {
+    "class": "Wizard",
+    "exp": 446660,
+    "level": 20,
+    "cooldown": 1516577196413,
+    "nickname": "Valtheim",
+    "inventory": {
+      "item0": {
+        "name": "Helm of the Juggernauts",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Staff of Iceblast",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of the Cosmic Whole",
+      "equip1": "Empty",
+      "equip2": "Robe of the Tlatoani",
+      "equip3": "Magical Lodestone"
+    },
+    "stats": {
+      "hp": 19,
+      "mp": 23,
+      "att": 32,
+      "def": 47,
+      "spd": 39,
+      "dex": 32,
+      "vit": 40,
+      "wis": 46
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "221837228991578112": {
+    "class": "Assassin",
+    "exp": 185,
+    "level": 18,
+    "cooldown": null,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Wine Cellar Incantation",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Void Blade",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Plague Poison",
+      "equip2": "Empty",
+      "equip3": "Ring of Divine Faith"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 23,
+      "def": 12,
+      "spd": 7,
+      "dex": 7,
+      "vit": 14,
+      "wis": 7
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "191546443641782273": {
+    "class": "Paladin",
+    "exp": 1729,
+    "level": 20,
+    "cooldown": 1516132781015,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Evil Spirit",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Defense",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Pixie-Enchanted Sword",
+      "equip1": "Seal of the Enchanted Forest",
+      "equip2": "Candy-Coated Armor",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 19,
+      "mp": 6,
+      "att": 27,
+      "def": 13,
+      "spd": 3,
+      "dex": 7,
+      "vit": 6,
+      "wis": 14
+    }
+  }
+}

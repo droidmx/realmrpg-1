@@ -1,0 +1,56 @@
+{
+  "231598956675596289": {
+    "class": "Archer",
+    "exp": 45324,
+    "level": 20,
+    "cooldown": 1520044564620,
+    "inventory": {
+      "item0": {
+        "name": "Interregnum",
+        "isFavorite": 1
+      },
+      "item1": {
+        "name": "Quiver of Elvish Mastery",
+        "isFavorite": 1
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "isFavorite": 0,
+        "name": "Empty"
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Doom Bow",
+      "equip1": "Quiver of Thunder",
+      "equip2": "Wyrmhide Armor",
+      "equip3": "Bracer of the Guardian"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

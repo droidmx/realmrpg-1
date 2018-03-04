@@ -1,0 +1,57 @@
+{
+  "183826320268984321": {
+    "class": "Archer",
+    "exp": 104,
+    "level": 7,
+    "cooldown": 1516220914657,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Eternal Snowflake Wand",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Snakeskin Armor",
+      "equip3": "Snake Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 0,
+      "def": 0,
+      "spd": 12,
+      "dex": 0,
+      "vit": 0,
+      "wis": 0
+    }
+  }
+}

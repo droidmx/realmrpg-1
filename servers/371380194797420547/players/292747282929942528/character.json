@@ -1,0 +1,57 @@
+{
+  "292747282929942528": {
+    "class": "Wizard",
+    "exp": 29197,
+    "level": 20,
+    "cooldown": 1515640739666,
+    "nickname": "Bun",
+    "inventory": {
+      "item0": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of Extreme Prejudice",
+      "equip1": "Recurring Terror Spell",
+      "equip2": "Chasuble of Holy Light",
+      "equip3": "Enchanted Ice Shard"
+    },
+    "stats": {
+      "hp": 21,
+      "mp": 8,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

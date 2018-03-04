@@ -1,0 +1,57 @@
+{
+  "312052524502745089": {
+    "class": "Trickster",
+    "exp": 4718,
+    "level": 20,
+    "cooldown": 1512272815332,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Prism of Apparitions",
+        "isFavorite": 1
+      },
+      "item1": {
+        "name": "Wand of the Bulwark",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Ghostly Prism",
+        "isFavorite": 1
+      },
+      "item3": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Tome of Pain",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Dagger of Foul Malevolence",
+        "isFavorite": 1
+      },
+      "equip0": "Etherite Dagger",
+      "equip1": "Prism of Dancing Swords",
+      "equip2": "Harlequin Armor",
+      "equip3": "Ring of Decades"
+    },
+    "stats": {
+      "hp": 3,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

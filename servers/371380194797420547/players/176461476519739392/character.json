@@ -1,0 +1,57 @@
+{
+  "176461476519739392": {
+    "class": "Wizard",
+    "exp": 472,
+    "level": 14,
+    "cooldown": 1515550612358,
+    "nickname": "woodethan",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of Iceblast",
+      "equip1": "Empty",
+      "equip2": "Robe of the Tlatoani",
+      "equip3": "Spider's Eye Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 5,
+      "def": 3,
+      "spd": 3,
+      "dex": 12,
+      "vit": 9,
+      "wis": 11
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "178254900696842251": {
+    "class": "Wizard",
+    "exp": 1454,
+    "level": 14,
+    "cooldown": 1516532874265,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Wine Cellar Incantation",
+        "isFavorite": 1
+      },
+      "item1": {
+        "name": "Bone Dagger",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Robe of the Tlatoani",
+      "equip3": "Spectral Ring of Horrors"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 5,
+      "def": 6,
+      "spd": 9,
+      "dex": 6,
+      "vit": 9,
+      "wis": 13
+    }
+  }
+}

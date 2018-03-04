@@ -1,0 +1,57 @@
+{
+  "227477640062173186": {
+    "class": "Priest",
+    "exp": 2120,
+    "level": 20,
+    "cooldown": 1519768851672,
+    "nickname": "Racermus",
+    "inventory": {
+      "item0": {
+        "name": "Magical Lodestone",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Ring of the Sphinx",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Ring of the Pyramid",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "equip0": "Wand of the Bulwark",
+      "equip1": "Tome of Pain",
+      "equip2": "Chasuble of Holy Light",
+      "equip3": "Experimental Ring"
+    },
+    "stats": {
+      "hp": 28,
+      "mp": 5,
+      "att": 12,
+      "def": 5,
+      "spd": 22,
+      "dex": 9,
+      "vit": 12,
+      "wis": 30
+    }
+  }
+}

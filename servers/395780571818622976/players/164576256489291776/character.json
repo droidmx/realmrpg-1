@@ -1,0 +1,57 @@
+{
+  "164576256489291776": {
+    "class": "Knight",
+    "exp": 5076,
+    "level": 20,
+    "cooldown": 1516250724578,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Skull of Corrupted Souls",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Ring of the Sphinx",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Demon Blade",
+      "equip1": "Snakeskin Shield",
+      "equip2": "Dominion Armor",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 20,
+      "mp": 1,
+      "att": 20,
+      "def": 7,
+      "spd": 4,
+      "dex": 4,
+      "vit": 9,
+      "wis": 5
+    }
+  }
+}

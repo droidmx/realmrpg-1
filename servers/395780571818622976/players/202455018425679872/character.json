@@ -1,0 +1,57 @@
+{
+  "202455018425679872": {
+    "class": "Paladin",
+    "exp": 3703,
+    "level": 20,
+    "cooldown": 1516132078943,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Magical Lodestone",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Pixie-Enchanted Sword",
+      "equip1": "Seal of the Enchanted Forest",
+      "equip2": "Fairy Plate",
+      "equip3": "Magical Lodestone"
+    },
+    "stats": {
+      "hp": 19,
+      "mp": 20,
+      "att": 46,
+      "def": 50,
+      "spd": 32,
+      "dex": 32,
+      "vit": 37,
+      "wis": 37
+    }
+  }
+}

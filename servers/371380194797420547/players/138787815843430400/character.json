@@ -1,0 +1,57 @@
+{
+  "138787815843430400": {
+    "class": "Assassin",
+    "exp": 4519,
+    "level": 20,
+    "cooldown": 1514230178505,
+    "nickname": "ReKCaHURT",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Sprite Wand",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "equip0": "Dagger of Foul Malevolence",
+      "equip1": "Murky Toxin",
+      "equip2": "Mantle of Skuld",
+      "equip3": "Ring of the Nile"
+    },
+    "stats": {
+      "hp": 17,
+      "mp": 9,
+      "att": 50,
+      "def": 18,
+      "spd": 50,
+      "dex": 38,
+      "vit": 25,
+      "wis": 50
+    }
+  }
+}

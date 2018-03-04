@@ -1,0 +1,57 @@
+{
+  "190595401328492544": {
+    "class": "Wizard",
+    "exp": 54489,
+    "level": 20,
+    "cooldown": 1516594630351,
+    "nickname": "Mystery",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Staff of the Cosmic Whole",
+      "equip1": "Recurring Terror Spell",
+      "equip2": "Robe of the Mad Scientist",
+      "equip3": "Ring of the Pyramid"
+    },
+    "stats": {
+      "hp": 3,
+      "mp": 1,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

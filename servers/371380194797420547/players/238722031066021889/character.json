@@ -1,0 +1,57 @@
+{
+  "238722031066021889": {
+    "class": "Archer",
+    "exp": 7938,
+    "level": 20,
+    "cooldown": 1519811221456,
+    "nickname": "..",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Dominion Armor",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Robe of the Star Mother",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Potion of Life",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Wyrmhide Armor",
+        "isFavorite": 0
+      },
+      "equip0": "Doom Bow",
+      "equip1": "Quiver of Thunder",
+      "equip2": "Spectral Cloth Armor",
+      "equip3": "The Forgotten Crown"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 32,
+      "dex": 32,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

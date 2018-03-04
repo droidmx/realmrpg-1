@@ -1,0 +1,57 @@
+{
+  "274028050730188810": {
+    "class": "Archer",
+    "exp": 35183,
+    "level": 20,
+    "cooldown": 1516401063073,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Mana",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Empty",
+      "equip1": "Empty",
+      "equip2": "Coral Silk Armor",
+      "equip3": "Coral Ring"
+    },
+    "stats": {
+      "hp": 1,
+      "mp": 18,
+      "att": 50,
+      "def": 50,
+      "spd": 8,
+      "dex": 50,
+      "vit": 5,
+      "wis": 50
+    }
+  }
+}

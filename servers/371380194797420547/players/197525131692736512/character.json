@@ -1,0 +1,56 @@
+{
+  "197525131692736512": {
+    "class": "Warrior",
+    "exp": 171494,
+    "level": 20,
+    "cooldown": 1518146527645,
+    "inventory": {
+      "item0": {
+        "name": "Pixie-Enchanted Sword",
+        "isFavorite": 1
+      },
+      "item1": {
+        "name": "Potion of Dexterity",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Fairy Plate",
+        "isFavorite": 1
+      },
+      "item3": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Sword of the Colossus",
+      "equip1": "Empty",
+      "equip2": "Dominion Armor",
+      "equip3": "Ring of Decades"
+    },
+    "stats": {
+      "hp": 50,
+      "mp": 50,
+      "att": 50,
+      "def": 50,
+      "spd": 50,
+      "dex": 50,
+      "vit": 50,
+      "wis": 50
+    }
+  }
+}

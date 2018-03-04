@@ -1,0 +1,57 @@
+{
+  "204907906611544065": {
+    "class": "Rogue",
+    "exp": 940,
+    "level": 13,
+    "cooldown": 1516122509235,
+    "nickname": "none",
+    "inventory": {
+      "item0": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Wine Cellar Incantation",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Wine Cellar Incantation",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Potion of Attack",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Poison Fang Dagger",
+      "equip1": "Cloak of the Planewalker",
+      "equip2": "Snakeskin Armor",
+      "equip3": "Candy Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 1,
+      "def": 0,
+      "spd": 3,
+      "dex": 10,
+      "vit": 6,
+      "wis": 10
+    }
+  }
+}

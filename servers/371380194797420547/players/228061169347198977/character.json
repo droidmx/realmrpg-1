@@ -1,0 +1,57 @@
+{
+  "228061169347198977": {
+    "class": "Assassin",
+    "exp": 4864,
+    "level": 20,
+    "cooldown": 1512782569439,
+    "nickname": "Noxuris",
+    "inventory": {
+      "item0": {
+        "name": "Void Blade",
+        "isFavorite": 0
+      },
+      "item1": {
+        "name": "Spider's Eye Ring",
+        "isFavorite": 0
+      },
+      "item2": {
+        "name": "Captain's Ring",
+        "isFavorite": 0
+      },
+      "item3": {
+        "name": "Potion of Wisdom",
+        "isFavorite": 0
+      },
+      "item4": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item5": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item6": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "item7": {
+        "name": "Empty",
+        "isFavorite": 0
+      },
+      "equip0": "Dagger of Foul Malevolence",
+      "equip1": "Murky Toxin",
+      "equip2": "Empty",
+      "equip3": "Captain's Ring"
+    },
+    "stats": {
+      "hp": 0,
+      "mp": 0,
+      "att": 17,
+      "def": 29,
+      "spd": 7,
+      "dex": 7,
+      "vit": 19,
+      "wis": 20
+    }
+  }
+}
