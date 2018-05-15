@@ -110,5 +110,5 @@ exports.addCommand = function(commandName, commandObject){
 	
 if(AuthDetails.bot_token){
 	console.log("logging in with token");
-	bot.login(AuthDetails.bot_token);
+	bot.login(process.env.BOT_TOKEN);
 }
