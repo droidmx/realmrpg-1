@@ -9,9 +9,7 @@ var short;
 //stats
 var exp, clss, lvl;
 var dungeons = fs.readFile('./stats.js', 'utf8', function read(err,data) {
-	if (err){
-		throw err;
-	}
+	
 	content = JSON.parse(data);
 });
 var itens = fs.readFile('./items.js', 'utf8', function read(err,data) {
