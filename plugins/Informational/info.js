@@ -2,15 +2,11 @@ var fs = require('file-system')
 var LootTable = require('loot-table')
 var testing = false;
 var dungeons = fs.readFile('./stats.js', 'utf8', function read(err,data) {
-	if (err){
-		throw err;
-	}
+	
 	content = JSON.parse(data);
 });
 var itens = fs.readFile('./items.js', 'utf8', function read(err,data) {
-	if (err){
-		throw err;
-	}
+	
 	items = JSON.parse(data);
 });
 var FileSync = require('lowdb/adapters/FileSync')
