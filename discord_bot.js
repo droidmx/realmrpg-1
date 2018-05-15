@@ -18,12 +18,7 @@ console.log("Starting DiscordBot\nNode version: " + process.version + "\nDiscord
 
 
 // Get authentication data
-try {
-	var AuthDetails = require("./auth.json");
-} catch (e){
-	console.log("<!> There was an error with auth.json, or it was not found.");
-	process.exit();
-}
+
 
 //load config data
 var Config = {};
